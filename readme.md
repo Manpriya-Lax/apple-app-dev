@@ -16,11 +16,11 @@ This is a simple proof-of-concept coffee shop app built using Swift, SwiftUI, an
 
 - Loyalty card with:
 
-- - Barcode image
+  - Barcode image
 
-- - User name
+  - User name
 
-- - Coffee consumption counter (hardcoded)
+  - Coffee consumption counter (hardcoded)
 
 - Clearly labeled screens with titles on every view
 
